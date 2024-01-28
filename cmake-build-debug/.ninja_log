@@ -1,0 +1,15 @@
+# ninja log v5
+0	353	1706331214709537759	build.ninja	51c7bb4b65c9c130
+1271	1321	1706205773503094996	sfmlmidterm	c77834297ebfb5b3
+1	612	1706334559563254182	CMakeFiles/poker_analysis.dir/Card.cpp.o	fda39613ec0e1eee
+2	623	1706334559575475442	CMakeFiles/poker_analysis.dir/CardHandScorer.cpp.o	e0b055d1cda3d841
+2	626	1706334559579692262	CMakeFiles/poker_analysis.dir/ScoreCard.cpp.o	2e3e55a7a8d13075
+0	636	1706334559588842301	CMakeFiles/poker_analysis.dir/Deck.cpp.o	c03439e6cd7ee171
+1	646	1706334559599839340	CMakeFiles/poker_analysis.dir/CardHand.cpp.o	b71278409b3c2fbf
+0	691	1706334559641149765	CMakeFiles/poker_analysis.dir/main.cpp.o	146a4f73314cf162
+614	1029	1706334559981316940	CMakeFiles/poker_analysis.dir/image.cpp.o	4f9318f58f071ed4
+627	1032	1706334559984544574	CMakeFiles/poker_analysis.dir/LetterBox.cpp.o	3a3adf2089e7c853
+623	1072	1706334560025908539	CMakeFiles/poker_analysis.dir/CardGraphics.cpp.o	382621a15c3ac84c
+646	1087	1706334560041372517	CMakeFiles/poker_analysis.dir/PokerDisplay.cpp.o	724398d3607b702c
+636	1094	1706334560048221859	CMakeFiles/poker_analysis.dir/scoreText.cpp.o	d546842d44a26692
+1094	1145	1706334560101035353	poker_analysis	8a10643a4d29139a
